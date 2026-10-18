@@ -1,0 +1,9 @@
+# Actividad 1 (eliminación de ruido impulsivo)
+numpy>=2.0
+opencv-python>=4.8
+matplotlib>=3.8
+scipy>=1.11
+ipykernel>=6.0
+# Añadidos para la Actividad 2 (evaluación de la segmentación)
+scikit-image>=0.22
+pandas>=2.0
